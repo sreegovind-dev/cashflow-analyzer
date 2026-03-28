@@ -53,6 +53,20 @@ http://127.0.0.1:5000
 * Password: password
 
 ---
+## 📸 Screenshots
+
+### Login Page
+
+!Login :(Login in.jpeg
+
+### Input Dashboard
+
+!Dashboard: (Input form.jpeg)
+
+### Analysis Output
+
+!Charts:(Revenue.jpeg,Confusion matrix.jpeg, ROC curve.jpeg)
+
 
 ## 📌 Future Improvements
 
